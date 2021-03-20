@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raufuprezensinc.raufuprezensinc)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+
